@@ -40,9 +40,21 @@ Webcam Embutida<br /><br />
 [F5] - Alternar Display (Vídeo Interno / Externo (HDMI))<br />
 [F7] - Desligar o Touchpad<br /></details>
 
-<details><summary><em>Sistema operacional usado:</em></summary>
+<details><summary><em>Instruções para CRIAR o Pendrive do MacOS Monterey (ou a versão de sua preferência) com a EFI e o BaseSystem.dmg</em></summary>
 <h4>Este método foi tentado apenas com o modo de restauração, então faça o boot pelo Pendrive com a ferramaenta disponibilizada no pacote</h4><br />
-Foi usado o pacote do MacOS Monterey, com a última versão baixada diretamente dos repositórios da Apple, <b>12.1</b> (BaseSystem.dmg - usado apenas para dar o boot inicial, toda instalação é feita pela internet)</details>
+Para usar este método é mandatório que você siga os passos abaixo:<br /><br />
+Use o script mountEFI para montar a partição EFI do seu pendrive, caso você já tenha um funcional, com outro sistema operacional para instalação, caso contrário, apenas formate o Pendrive em FAT32, e copie a pasta EFI para a raiz do Pendrive.<br /><br />
+Note que nesse caso específico você não precisa de um Pendrive de 16Gb, pois não vamos usar a imagem completa do sistema, um de 1 ou 2gb já será o suficiente.<br /><br />
+Instale a última versão do Python no seu sistema operacional (mandatório se você for fazer isso pelo MacOS)<br />
+Um script Python de nome macrecovery.py, está dentro da pasta Utils/macrecovery<br /><br />
+Execute o programa e escolha a opção que você deseja</em><br /><br />
+Após o download, vá até o pendrive onde está a EFI e crie uma pasta chamada <b><em>com.apple.recovery.boot</b></em> a pasta precisa ter EXATAMENTE este nome, ou o processso não vai funcionar.<br />
+  coloque o arquivo baixado dentro da pasta criada.<br /><br />
+Foi usado o pacote do MacOS Monterey, com a última versão baixada diretamente dos repositórios da Apple, <b>12.1</b> (BaseSystem.dmg - usado apenas para dar o boot inicial, toda instalação é feita pela internet)<br /><br />
+Desative na sua bios as opções de virtualização da Intel e AMD, todas que forem possíveis<br />
+MUDE os contrtoladores de disco para AHCI, não deixe em SATA, IDE, ou qualquer outro pois o sistema não suporta nenhum outro padrão, apenas AHCI... após a instalação você pode ver se existe algum modo para usar com outra opção fora AHCI, no caso de você ter uma placa que suporte a Tecnologia da Intel "RST OPTANE" ou "RST PREMIUM OPTANE" mas não deixe habilitado na instalação ou o sistema vai travar (KERNEL PANIC)<br /><br />
+DESATIVE o SecureBoot durante a instalação, novamente você poderá ver se existe alguma possibilidade de ativar novamente depois da instalação, se você já tem uma instalação do Windows, que não está em AHCI, sugiro que mude para AHCI, e instale o Windows novamente, ou procure na internet como reparar uma instalação do Windows 10 ou 11 após mudar os controladores de disco para AHCI<br /><br />
+Eu não vou entrar em detalhes de como utilizar a tecnologia "OPTANE" da intel nesse guia, nem de como ativar o SecureBoot e opções de Virtualização, após executar a instalação, porque foge do escopo pretendido.</details>
 
 <h2>EFI OpenCore for notebook Acer Nitro 5 AN517-51-55 (17 Inch., Core i5 9300h, Geforce 1650, Intel UHD 630)</h2>
 
