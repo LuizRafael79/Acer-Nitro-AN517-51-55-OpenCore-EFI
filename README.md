@@ -6,15 +6,18 @@ Detalhamento do que funciona e não funciona<br />
 
 <details><summary>Português do Brasil</summary>
 <h2>O que não funciona?</h2>
-HDMI (Geforce Optimus, não funciona de jeito nenhum)<br />
+Hardware: Geforce 1650M - NVidia Optimus {<br />
+HDMI (Geforce Optimus, não funciona de jeito nenhum)}<br />
+Hardware Proprietário:<br />
+Apple AirDrop<br />
 
 <h2>O que funciona?</h2>
+<h2>TOUCHPAD (Com todas as gestures, perfeito)</h2>
 iGPU (Intel UHD 630)<br />
 Controlador nVme<br />
 Controlador Sata<br />
 Áudio<br />
 Controladores de Rede (ETH e WiFi)<br />
-AirDrop<br />
 Portas USB (Inclusive a 3.1)<br />
 Porta USB-C (4gbps)<br />
 Sensor de Bateria<br />
@@ -28,6 +31,7 @@ Webcam Embutida<br /><br />
 [FN]+[F4] - Modo de Suspensão<br />
 [FN]+[F6] - Desliga o LCD<br />
 [FN]+[F8] - Desabilita o Áudio (mudo)<br />
+[FN]+[F7] - Habilita/Desabilita o Touchpad (FUNCIONANDO!!!)<br />
 [FN]+[F9] - Diminui a retroiluminação do teclado<br />
 [FN]+[F10] - Aumenta a retroiluminação do teclado<br />
 [FN]+[F11] - Aumenta o Brilho da tela<br />
@@ -37,8 +41,7 @@ Webcam Embutida<br /><br />
 [FN]+[Seta para Baixo/Cima] Diminui/Aumenta o Volume<br />
 <h3>Não Funciona:</h3>
 [F3] - Alternar WiFi ligado e desligado<br />
-[F5] - Alternar Display (Vídeo Interno / Externo (HDMI))<br />
-[F7] - Desligar o Touchpad<br /></details>
+[F5] - Alternar Display (Vídeo Interno / Externo (HDMI))</details>
 
 <details><summary><em>Instruções para CRIAR o Pendrive do MacOS Monterey (ou a versão de sua preferência) com a EFI e o BaseSystem.dmg</em></summary>
 <h4>Este método foi tentado apenas com o modo de restauração, então faça o boot pelo Pendrive com a ferramaenta disponibilizada no pacote</h4><br />
@@ -62,10 +65,11 @@ Details about what Work or not:<br />
 
 <details><summary>English (Inglês)</summary>
 <h2>What doesn't work?</h2>
-Touchpad (Trying to make it work)<br />
+Apple AirDrop<br />
 HDMI (TV and Audio Out) - This is tricky, because the HDMI output of this notebook model is connected directly to the Geforce 1650m which is not supported by the operating system (MacOS Monterey) but the digital audio SEEMS to be supported, but needs more research and testing is currently not working.<br /><br />
 
 <h2>What works?</h2>
+<h2>TOUCHPAD (Working Perfectly, with Gestures too!!)</h2>
 iGPU (Intel UHD 630)<br />
 nVme controller<br />
 Sata Controller<br />
@@ -84,6 +88,7 @@ Built-in Webcam<br /><br />
 <h3>It works:</h3>
 [FN]+[F4] - Sleep Mode<br />
 [FN]+[F6] - Turn off the LCD<br />
+<b>[FN]+[F7] - Turn Off/On Touchpad (WORKING NOW)</b><br />
 [FN]+[F8] - Disable the audio (mute)<br />
 [FN]+[F9] - Decreases keyboard backlight<br />
 [FN]+[F10] - Increases the keyboard backlight<br />
@@ -94,12 +99,14 @@ Built-in Webcam<br /><br />
 [FN]+[Down/Up Arrow] Decrease/Increase Volume<br />
 <h3>Doesn't Work:</h3>
 [F3] - Toggle WiFi on and off<br />
-[F5] - Switch Display (Internal / External Video (HDMI))<br />
-[F7] - Turn off Touchpad<br /></details>
+[F5] - Switch Display (Internal / External Video (HDMI))></details>
 
 <details><summary><em>Operating system used:</em></summary>
 <h4>This method was only tried with the restore mode, so boot from the Pendrive with the tool provided in the package</h4><br />
 The MacOS Monterey package was used, with the latest version downloaded directly from the Apple repositories, <b>12.1</b> (BaseSystem.dmg - used only for initial booting, all installation is done over the internet)<br / ></details>
+
+<h2> TODO: AirDrop (Troca da Placa de Wi-Fi) e HDMI (com Dongle USB)<br />
+  TODO: Airdrop (Wi-Fi Board Change) and HDMi (USB/USB-C Dongle)</h2>
 
 
 
