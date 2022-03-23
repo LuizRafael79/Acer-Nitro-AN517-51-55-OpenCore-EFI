@@ -1,4 +1,4 @@
-# Acer-Nitro-AN517-51-55-OpenCore-EFI (OpenCore 0.78)
+# Acer-Nitro-AN517-51-55-OpenCore-EFI (OpenCore 0.79) - Atualizado OpenCore, DDST e KEXTS
 #Hackintosh, MacOS Monterey, MacOS
 <h2>EFI OpenCore para o notebook Acer Nitro 5 AN517-51-55 (17 Polegadas, Core i5 9300H, Geforce 1650, Intel UHD 630)</h2>
 
@@ -6,8 +6,7 @@ Detalhamento do que funciona e não funciona<br />
 
 <details><summary>Português do Brasil</summary>
 <h2>O que não funciona?</h2>
-Touchpad (Tentando fazer funcionar)<br />
-HDMI (Saída para TV e Áudio) - Aqui é complicado, porque a saída HDMI desse modelo de notebook é ligada diretamente na Geforce 1650m que não é suportada pelo sistema operacional (MacOS Monterey) porém o áudio digital PARECE ser suportado, mas necessita de mais pesquisa e testes, por hora não está funcionando.<br /><br />
+HDMI (Geforce Optimus, não funciona de jeito nenhum)<br />
 
 <h2>O que funciona?</h2>
 iGPU (Intel UHD 630)<br />
