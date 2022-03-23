@@ -1,51 +1,29 @@
-Copyright (c) 2016-2017, The HermitCrabs Lab
-Copyright (c) 2016-2020, Download-Fritz
-Copyright (c) 2017-2020, savvas
-Copyright (c) 2016-2020, vit9696
-Copyright (c) 2022, LuizRafael79
+BSD 3-Clause License
 
+Copyright (c) 2022, Luiz Rafael
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS 
-OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-PORTUGUESE BRAZIL (PORTUGUÊS BRASILEIRO)
-
-Copyright (c) 2016-2017, The HermitCrabs Lab
-Direitos autorais (c) 2016-2020, Download-Fritz
-Direitos autorais (c) 2017-2020, savvas
-Direitos autorais (c) 2016-2020, vit9696
-Direitos autorais (c) 2022, LuizRafael79
-
-Todos os direitos reservados.
-
-A redistribuição e uso em formato fonte e binário, com ou sem modificação, são permitidos desde que as seguintes condições sejam atendidas:
-
-1. As redistribuições do código-fonte devem manter o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade.
-
-2. As redistribuições em formato binário devem reproduzir o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade na documentação e/ou outros materiais fornecidos com a distribuição.
-
-3. Nem o nome do detentor dos direitos autorais nem os nomes de seus colaboradores podem ser usados ​​para endossar ou promover produtos derivados deste software sem permissão prévia específica por escrito.
-
-ESTE SOFTWARE É FORNECIDO PELOS TITULARES DE DIREITOS AUTORAIS E COLABORADORES
-"COMO ESTÁ" E QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUINDO
-MAS NÃO SE LIMITANDO A, GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO
-A UM DETERMINADO FIM SÃO REJEITADAS. EM HIPÓTESE ALGUMA O TITULAR OU COLABORADORES
-DE DIREITOS AUTORAIS SERÃO RESPONSÁVEL POR QUAISQUER DANOS DIRETOS, INDIRETOS, 
-INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENTES (INCLUINDO, MAS NÃO SE LIMITANDO
-À AQUISIÇÃO DE BENS SUBSTITUTOSOU SERVIÇOS; PERDA DE USO, DADOS OU LUCROS; 
-OU INTERRUPÇÃO DE NEGÓCIOS) DE QUALQUER FORMA CAUSADA E EM QUALQUER TEORIA 
-DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA, OU DELITO 
-(INCLUINDO NEGLIGÊNCIA OU DE QUALQUER OUTRA FORMA)
-DECORRENTE DE QUALQUER FORMA DO USO DESTE SOFTWARE, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
