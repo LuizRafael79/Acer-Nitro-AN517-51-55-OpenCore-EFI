@@ -111,7 +111,7 @@ The MacOS Monterey package was used, with the latest version downloaded directly
   
   Agradecimentos
   <a href="https://github.com/SaeedHaidar">SaeedHaidar</a> (EFI original)<br />
-  <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7</a>Outra boa EFI<br />
+  <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7</a> (Outra boa EFI)<br />
   <a href="https://olarila.com">Mald0n</a> (Olarila Vanilla Hackintosh - Onde aprendi a dar patch direto na DSDT)<br />
   <a href="https://hackintoshvanilla.com/">Gabriel Luchina</a> (Universo Hackintosh)<br /><br />
   
