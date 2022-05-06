@@ -1,4 +1,5 @@
-# Acer-Nitro-AN517-51-55-OpenCore-EFI (OpenCore 0.79) - Atualizado OpenCore, DDST e KEXTS
+# Acer-Nitro-AN517-51-55-OpenCore-EFI (OpenCore 0.81) - Atualizado OpenCore, DSDT e KEXTS
+Essa EFI não faz uso de SSDT, todos os patchs ACPI foram feitos no SDST.
 #Hackintosh, MacOS Monterey, MacOS
 <h2>EFI OpenCore para o notebook Acer Nitro 5 AN517-51-55 (17 Polegadas, Core i5 9300H, Geforce 1650, Intel UHD 630)</h2>
 
@@ -107,7 +108,16 @@ The MacOS Monterey package was used, with the latest version downloaded directly
 
 <h2> TODO: AirDrop (Troca da Placa de Wi-Fi) e HDMI (com Dongle USB)<br />
   TODO: Airdrop (Wi-Fi Board Change) and HDMi (USB/USB-C Dongle)</h2>
-
+  
+  Agradecimentos
+  <a href="https://github.com/SaeedHaidar">SaeedHaidar</a> (EFI original)
+  <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7
+  <a href="https://olarila.com">Mald0n</a> (Olarila Vanilla Hackintosh - Onde aprendi a dar patch direto na DSDT)
+  <a href="https://hackintoshvanilla.com/">Gabriel Luchina</a> (Universo Hackintosh)
+  
+  #EUNAOUSOHACKINTOSHMODIFICADO #hackintoshvanilla
+  
+  
 
 
 
