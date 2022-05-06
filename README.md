@@ -110,10 +110,10 @@ The MacOS Monterey package was used, with the latest version downloaded directly
   TODO: Airdrop (Wi-Fi Board Change) and HDMi (USB/USB-C Dongle)</h2>
   
   Agradecimentos
-  <a href="https://github.com/SaeedHaidar">SaeedHaidar</a> (EFI original)
-  <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7
-  <a href="https://olarila.com">Mald0n</a> (Olarila Vanilla Hackintosh - Onde aprendi a dar patch direto na DSDT)
-  <a href="https://hackintoshvanilla.com/">Gabriel Luchina</a> (Universo Hackintosh)
+  <a href="https://github.com/SaeedHaidar">SaeedHaidar</a> (EFI original)<br />
+  <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7<br />
+  <a href="https://olarila.com">Mald0n</a> (Olarila Vanilla Hackintosh - Onde aprendi a dar patch direto na DSDT)<br />
+  <a href="https://hackintoshvanilla.com/">Gabriel Luchina</a> (Universo Hackintosh)<br /><br />
   
   #EUNAOUSOHACKINTOSHMODIFICADO #hackintoshvanilla
   
